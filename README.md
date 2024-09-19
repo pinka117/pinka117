@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Linda
+- 🍕 I'm from Italy
 - 👀 I’m interested in Go, Javascript, Python
 - 🌱 I’m currently learning Rust
 
